@@ -1,0 +1,32 @@
+.grid-view {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    background-color: burlywood;
+  }
+  
+  .student-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+  }
+  
+  .attribute-box {
+    background-color: #e0f7fa; 
+    border: 2px solid black;
+    border-radius: 5px; 
+    margin: 15px 0; 
+    padding: 10px; 
+  }
+  .student {
+    border: 2px solid #4CAF50; 
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    background-color: darkslategray;
+    color: #f9f9f9;
+  }
