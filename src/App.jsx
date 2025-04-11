@@ -9,7 +9,7 @@ import Navbar from './Navbar';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import store from './store.js';
 import { Provider } from 'react-redux';
-import ProfileCard from './ProfileCard';
+
 const profilelist = {
   name: "abhinandana",
   department: "AIDS",
